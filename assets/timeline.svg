@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="523" viewBox="0 0 1120 523" role="img" aria-labelledby="title desc">
+<title id="title">Hành trình và đồ án</title>
+<desc id="desc">NextGen Careers, Gói Việt, CSTTNT, Tower Defense, FTP Client và hướng học khoa học dữ liệu thị giác.</desc>
+<rect x=".5" y=".5" width="1119" height="522" rx="9" fill="#f4f7fe" stroke="#cad7ef"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="32" y="43" font-size="21" font-weight="730" fill="#213979" letter-spacing="1.2">HƯỚNG HỌC VÀ ĐỒ ÁN</text>
+<path d="M192 102V471" stroke="#c8d5ef" stroke-width="1.5"/>
+<path d="M31 68H1089" stroke="#d2dcf0"/>
+<text x="33" y="106" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">HƯỚNG HỌC</text>
+<circle cx="192" cy="103" r="4" fill="#7893da"/>
+<text x="218" y="97" font-size="24" font-weight="720" fill="#132346">Khoa học dữ liệu thị giác</text>
+<text x="218" y="122" font-size="16" fill="#52627f">HCMUS · CNTT Chất lượng cao K24</text>
+<text x="1087" y="106" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">TGMT</text>
+<path d="M31 141H1089" stroke="#d2dcf0"/>
+<text x="33" y="179" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">ĐỒ ÁN</text>
+<circle cx="192" cy="176" r="7" fill="#335de7"/>
+<text x="218" y="170" font-size="24" font-weight="720" fill="#132346">NextGen Careers</text>
+<text x="218" y="195" font-size="16" fill="#52627f">Tuyển dụng và chấm điểm CV · PM, BA, UI/UX</text>
+<text x="1087" y="179" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">WEB APP</text>
+<path d="M31 214H1089" stroke="#d2dcf0"/>
+<text x="33" y="252" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">10 / 2026</text>
+<circle cx="192" cy="249" r="4" fill="#7893da"/>
+<text x="218" y="243" font-size="24" font-weight="720" fill="#132346">Gói Việt · Vietnam Heritage Map</text>
+<text x="218" y="268" font-size="16" fill="#52627f">Giao diện kể chuyện và bản đồ văn hóa</text>
+<text x="1087" y="252" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">GIAO DIỆN</text>
+<path d="M31 287H1089" stroke="#d2dcf0"/>
+<text x="33" y="325" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">01–03 / 2026</text>
+<circle cx="192" cy="322" r="4" fill="#7893da"/>
+<text x="218" y="316" font-size="24" font-weight="720" fill="#132346">CSTTNT · Tìm kiếm và tối ưu hóa</text>
+<text x="218" y="341" font-size="16" fill="#52627f">Benchmark, ca kiểm thử và trực quan hóa</text>
+<text x="1087" y="325" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">AI</text>
+<path d="M31 360H1089" stroke="#d2dcf0"/>
+<text x="33" y="398" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">2025</text>
+<circle cx="192" cy="395" r="4" fill="#7893da"/>
+<text x="218" y="389" font-size="24" font-weight="720" fill="#132346">Tower Defense</text>
+<text x="218" y="414" font-size="16" fill="#52627f">Game phòng thủ 2D với C++ và SFML</text>
+<text x="1087" y="398" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">GAME 2D</text>
+<path d="M31 433H1089" stroke="#d2dcf0"/>
+<text x="33" y="471" font-size="16" font-weight="700" letter-spacing=".95" fill="#354d87">2025</text>
+<circle cx="192" cy="468" r="4" fill="#7893da"/>
+<text x="218" y="462" font-size="24" font-weight="720" fill="#132346">FTP Client</text>
+<text x="218" y="487" font-size="16" fill="#52627f">Truyền tệp qua TCP và tài liệu LaTeX</text>
+<text x="1087" y="471" font-size="14" text-anchor="end" font-weight="720" letter-spacing=".85" fill="#3456bd">MẠNG</text>
+</g></svg>

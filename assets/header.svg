@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="310" viewBox="0 0 1120 310" role="img" aria-labelledby="title desc">
+<title id="title">Quốc Uy · HCMUS K24</title>
+<desc id="desc">Quốc Uy, sinh viên CNTT CLC hướng khoa học dữ liệu thị giác. Bìa chữ trắng trên nền navy và biểu trưng QU xanh cobalt.</desc>
+<rect x=".5" y=".5" width="1119" height="309" rx="9" fill="#0b1428" stroke="#304162"/>
+<rect x="31" y="31" width="6" height="248" fill="#547bff"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="57" y="58" font-size="17" font-weight="650" fill="#b1c4f6" letter-spacing="2.25">HCMUS   /   CNTT CLC   /   K24</text>
+<path d="M58 75h670" stroke="#334464"/>
+<text x="52" y="163" font-size="99" font-weight="740" fill="#f3f6ff" letter-spacing="-4.5">Quốc Uy</text>
+<text x="57" y="214" font-size="32" font-weight="650" fill="#9ab4ff" letter-spacing="-.32">Khoa học dữ liệu thị giác</text>
+<text x="59" y="255" font-size="19" font-weight="530" fill="#c6d2ed">UI/UX  ·  Phân tích yêu cầu  ·  Quản lý dự án</text>
+<rect x="773" y="31" width="315" height="248" rx="4" fill="#2c50d3"/>
+<path d="M795 54h271M795 257h271" stroke="#7592f5" stroke-opacity=".66"/>
+<path d="M830 90v131m204-131v131" stroke="#7592f5" stroke-opacity=".42" stroke-dasharray="4 5"/>
+<g fill="none" stroke="#f6f8ff" stroke-width="11" stroke-linecap="square" stroke-linejoin="round">
+<circle cx="881" cy="151" r="39"/>
+<path d="m901 177 20 22M942 113v43a32 32 0 0 0 64 0v-43"/>
+</g>
+<text x="930.5" y="239" text-anchor="middle" font-size="13" font-weight="650" fill="#e5edff" letter-spacing="1.6">@SAMNGUYEN0112</text>
+</g></svg>

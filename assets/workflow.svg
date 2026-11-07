@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="229" viewBox="0 0 1120 229" role="img" aria-labelledby="title desc">
+<title id="title">Cách mình tiếp cận một đồ án</title>
+<desc id="desc">Làm rõ yêu cầu, thiết kế luồng, triển khai và kiểm chứng.</desc>
+<rect x="0.5" y="0.5" width="1119" height="228" rx="18" fill="#0b1428" stroke="#293958"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="34" y="39" fill="#f2f5ff" font-size="19" font-weight="720" letter-spacing="1.45" text-anchor="start">CÁCH MÌNH TIẾP CẬN MỘT ĐỒ ÁN</text>
+<rect x="32" y="64" width="249" height="138" rx="10" fill="#14203a" stroke="#293958"/>
+<rect x="33" y="65" width="247" height="4" rx="2" fill="#8facff" stroke="none"/>
+<text x="50" y="95" fill="#8facff" font-size="16" font-weight="750" letter-spacing="1.2" text-anchor="start">01</text>
+<text x="50" y="128" fill="#f2f5ff" font-size="23" font-weight="720" letter-spacing="0" text-anchor="start">Làm rõ yêu cầu</text>
+<text x="50" y="159" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Người dùng · mục tiêu</text>
+<text x="50" y="182" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Phạm vi và ưu tiên</text>
+<path d="M285 135h13m-4-4 4 4-4 4" fill="none" stroke="#8ba8f5" stroke-width="1.5"/>
+<rect x="301" y="64" width="249" height="138" rx="10" fill="#14203a" stroke="#293958"/>
+<rect x="302" y="65" width="247" height="4" rx="2" fill="#9ac3ff" stroke="none"/>
+<text x="319" y="95" fill="#9ac3ff" font-size="16" font-weight="750" letter-spacing="1.2" text-anchor="start">02</text>
+<text x="319" y="128" fill="#f2f5ff" font-size="23" font-weight="720" letter-spacing="0" text-anchor="start">Thiết kế luồng</text>
+<text x="319" y="159" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Các bước tương tác</text>
+<text x="319" y="182" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Màn hình và trạng thái</text>
+<path d="M554 135h13m-4-4 4 4-4 4" fill="none" stroke="#8ba8f5" stroke-width="1.5"/>
+<rect x="570" y="64" width="249" height="138" rx="10" fill="#14203a" stroke="#293958"/>
+<rect x="571" y="65" width="247" height="4" rx="2" fill="#b6c2f7" stroke="none"/>
+<text x="588" y="95" fill="#b6c2f7" font-size="16" font-weight="750" letter-spacing="1.2" text-anchor="start">03</text>
+<text x="588" y="128" fill="#f2f5ff" font-size="23" font-weight="720" letter-spacing="0" text-anchor="start">Triển khai</text>
+<text x="588" y="159" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Tính năng hoặc thuật toán</text>
+<text x="588" y="182" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Theo dõi thay đổi bằng Git</text>
+<path d="M823 135h13m-4-4 4 4-4 4" fill="none" stroke="#8ba8f5" stroke-width="1.5"/>
+<rect x="839" y="64" width="249" height="138" rx="10" fill="#14203a" stroke="#293958"/>
+<rect x="840" y="65" width="247" height="4" rx="2" fill="#a1b9ff" stroke="none"/>
+<text x="857" y="95" fill="#a1b9ff" font-size="16" font-weight="750" letter-spacing="1.2" text-anchor="start">04</text>
+<text x="857" y="128" fill="#f2f5ff" font-size="23" font-weight="720" letter-spacing="0" text-anchor="start">Kiểm chứng</text>
+<text x="857" y="159" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Demo hoặc notebook</text>
+<text x="857" y="182" fill="#afbdd7" font-size="16" font-weight="500" letter-spacing="0" text-anchor="start">Ca kiểm thử và phản hồi</text>
+
+</g>
+</svg>

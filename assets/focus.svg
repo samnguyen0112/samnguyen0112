@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="152" viewBox="0 0 1120 152" role="img" aria-labelledby="title desc">
+<title id="title">Học vấn, định hướng và trải nghiệm</title>
+<desc id="desc">CNTT CLC K24 tại HCMUS, hướng thị giác máy tính, trải nghiệm UI/UX và sản phẩm.</desc>
+<rect x="0.5" y="0.5" width="1119" height="151" rx="18" fill="#edf2fb" stroke="#d4ddef"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="16" y="16" width="354" height="119" rx="10" fill="#fbfcff" stroke="#d4ddef"/>
+<rect x="17" y="26" width="4" height="97" rx="2" fill="#2547ba" stroke="none"/>
+<text x="38" y="44" fill="#2547ba" font-size="14" font-weight="720" letter-spacing="1.35" text-anchor="start">01  /  HỌC VẤN</text>
+<text x="38" y="80" fill="#152140" font-size="27" font-weight="710" letter-spacing="0" text-anchor="start">CNTT CLC K24</text>
+<text x="38" y="109" fill="#4c5c7a" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">Trường ĐH Khoa học Tự nhiên</text>
+<rect x="383" y="16" width="354" height="119" rx="10" fill="#fbfcff" stroke="#d4ddef"/>
+<rect x="384" y="26" width="4" height="97" rx="2" fill="#3154c8" stroke="none"/>
+<text x="405" y="44" fill="#3154c8" font-size="14" font-weight="720" letter-spacing="1.35" text-anchor="start">02  /  HƯỚNG HỌC</text>
+<text x="405" y="80" fill="#152140" font-size="27" font-weight="710" letter-spacing="0" text-anchor="start">Thị giác máy tính</text>
+<text x="405" y="109" fill="#4c5c7a" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">Khoa học dữ liệu thị giác</text>
+<rect x="750" y="16" width="354" height="119" rx="10" fill="#fbfcff" stroke="#d4ddef"/>
+<rect x="751" y="26" width="4" height="97" rx="2" fill="#294aa9" stroke="none"/>
+<text x="772" y="44" fill="#294aa9" font-size="14" font-weight="720" letter-spacing="1.35" text-anchor="start">03  /  TRẢI NGHIỆM</text>
+<text x="772" y="80" fill="#152140" font-size="27" font-weight="710" letter-spacing="0" text-anchor="start">UI/UX và sản phẩm</text>
+<text x="772" y="109" fill="#4c5c7a" font-size="17" font-weight="500" letter-spacing="0" text-anchor="start">Giao diện · yêu cầu · triển khai</text>
+</g>
+</svg>
