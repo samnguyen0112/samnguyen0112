@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="415" viewBox="0 0 1120 415" role="img" aria-labelledby="title desc">
 <title id="title">Nhật ký commit · 365 ngày</title>
-<desc id="desc">130 commit trên 60 ngày trong các repo công khai sở hữu, nhánh mặc định. Dữ liệu đến 13.11.2026.</desc>
+<desc id="desc">136 commit trên 61 ngày trong các repo công khai sở hữu, nhánh mặc định. Dữ liệu đến 14.11.2026.</desc>
 <rect x=".5" y=".5" width="1119" height="414" rx="18" fill="#0b1428" stroke="#2c3b5c"/>
 <rect x="32" y="23" width="8" height="8" rx="2" fill="#8facff"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="50" y="37" font-size="19" font-weight="720" letter-spacing="1.5" fill="#f2f5ff">NHẬT KÝ COMMIT</text>
-<text x="1088" y="36" text-anchor="end" font-size="15" fill="#a9b8d4">DỮ LIỆU ĐẾN · 13.11.2026</text>
+<text x="1088" y="36" text-anchor="end" font-size="15" fill="#a9b8d4">DỮ LIỆU ĐẾN · 14.11.2026</text>
 <rect x="32" y="64" width="255" height="82" rx="10" fill="#14203a" stroke="#293958"/>
 <text x="49" y="88" font-size="14" letter-spacing="1.15" fill="#afbdd7">TỔNG COMMIT</text>
-<text x="49" y="130" font-size="39" font-weight="730" fill="#8facff">130</text>
+<text x="49" y="130" font-size="39" font-weight="730" fill="#8facff">136</text>
 <path d="M243 121h25" stroke="#8facff" stroke-width="3" stroke-linecap="round"/>
 <rect x="299" y="64" width="255" height="82" rx="10" fill="#14203a" stroke="#293958"/>
 <text x="316" y="88" font-size="14" letter-spacing="1.15" fill="#afbdd7">NGÀY CÓ COMMIT</text>
-<text x="316" y="130" font-size="39" font-weight="730" fill="#9ac3ff">60</text>
+<text x="316" y="130" font-size="39" font-weight="730" fill="#9ac3ff">61</text>
 <path d="M510 121h25" stroke="#9ac3ff" stroke-width="3" stroke-linecap="round"/>
 <rect x="566" y="64" width="255" height="82" rx="10" fill="#14203a" stroke="#293958"/>
 <text x="583" y="88" font-size="14" letter-spacing="1.15" fill="#afbdd7">CHUỖI HIỆN TẠI</text>
-<text x="583" y="130" font-size="39" font-weight="730" fill="#aebde6">1</text>
+<text x="583" y="130" font-size="39" font-weight="730" fill="#aebde6">2</text>
 <path d="M777 121h25" stroke="#aebde6" stroke-width="3" stroke-linecap="round"/>
 <rect x="833" y="64" width="255" height="82" rx="10" fill="#14203a" stroke="#293958"/>
 <text x="850" y="88" font-size="14" letter-spacing="1.15" fill="#afbdd7">CHUỖI DÀI NHẤT</text>
 <text x="850" y="130" font-size="39" font-weight="730" fill="#b6c2f7">8</text>
 <path d="M1044 121h25" stroke="#b6c2f7" stroke-width="3" stroke-linecap="round"/>
 <text x="32" y="176" fill="#f2f5ff" font-size="18" font-weight="680">365 ngày</text>
-<text x="120" y="176" fill="#a9b8d4" font-size="16">14.11.2025 — 13.11.2026</text>
+<text x="120" y="176" fill="#a9b8d4" font-size="16">15.11.2025 — 14.11.2026</text>
 <text x="1088" y="176" text-anchor="end" fill="#a9b8d4" font-size="16">4 / 11 repo công khai có commit</text>
 <g fill="#a9b8d4">
 <text x="85" y="199" font-size="14">T11</text>
@@ -42,7 +42,6 @@
 <text x="51" y="224" font-size="14">T2</text>
 <text x="51" y="258" font-size="14">T4</text>
 <text x="51" y="292" font-size="14">T6</text>
-<rect x="85" y="280" width="14" height="14" rx="3" fill="#1c2a46"><title>14.11.2025 · 0 commit</title></rect>
 <rect x="85" y="297" width="14" height="14" rx="3" fill="#1c2a46"><title>15.11.2025 · 0 commit</title></rect>
 <rect x="85" y="314" width="14" height="14" rx="3" fill="#1c2a46"><title>16.11.2025 · 0 commit</title></rect>
 <rect x="103" y="212" width="14" height="14" rx="3" fill="#1c2a46"><title>17.11.2025 · 0 commit</title></rect>
@@ -406,13 +405,14 @@
 <rect x="1021" y="229" width="14" height="14" rx="3" fill="#8facff"><title>10.11.2026 · 2 commit</title></rect>
 <rect x="1021" y="246" width="14" height="14" rx="3" fill="#1c2a46"><title>11.11.2026 · 0 commit</title></rect>
 <rect x="1021" y="263" width="14" height="14" rx="3" fill="#d7e3ff"><title>12.11.2026 · 6 commit</title></rect>
-<rect x="1021" y="280" width="14" height="14" rx="3" fill="#1c2a46"><title>13.11.2026 · 0 commit</title></rect>
+<rect x="1021" y="280" width="14" height="14" rx="3" fill="#d7e3ff"><title>13.11.2026 · 6 commit</title></rect>
+<rect x="1021" y="297" width="14" height="14" rx="3" fill="#1c2a46"><title>14.11.2026 · 0 commit</title></rect>
 <rect x="809" y="354" width="13" height="13" rx="3" fill="#1c2a46"/><text x="827" y="366" font-size="14">0</text>
 <rect x="862" y="354" width="13" height="13" rx="3" fill="#365bd7"/><text x="880" y="366" font-size="14">1</text>
 <rect x="915" y="354" width="13" height="13" rx="3" fill="#8facff"/><text x="933" y="366" font-size="14">2</text>
 <rect x="968" y="354" width="13" height="13" rx="3" fill="#afc4ff"/><text x="986" y="366" font-size="14">3–4</text>
 <rect x="1021" y="354" width="13" height="13" rx="3" fill="#d7e3ff"/><text x="1039" y="366" font-size="14">5+</text>
-<text x="32" y="366" font-size="16">Commit gần nhất · 12.11.2026</text>
+<text x="32" y="366" font-size="16">Commit gần nhất · 13.11.2026</text>
 <path d="M32 379H1088" stroke="#293958"/>
 <text x="32" y="399" font-size="14">Nhánh mặc định · repo công khai sở hữu · ngày theo UTC+7</text>
 </g></g></svg>
